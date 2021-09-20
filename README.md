@@ -38,5 +38,6 @@ Dėmėsio: `QR kodai nėra sėkmingai nuskenuojami, kadangi nėra galimybės mas
           Svarbiausia - nepasimeskite ir įsitikinkite, kad šiame sugeneruotame GP yra Jūsų 'realus' amžius, dėl kurio nekiltų įtarimo.
 
 * DISCLAIMER: Nesu atsakingas už šio įrankio padarytas žalas, nors tbh visiškai nusispjaut man. Jei ne mes, kas nors vis tiek būtų ką nors panašaus sukūręs - tad, tai tik laiko klausimas. Smagaus naudojimo!
+* Taip pat dėkojame nemažai daliai žmonių už pagalbą, kurie pasidalino savo galimybių pasais (GP). Be jų - neturėtumę nei menkiausio pavyzdžio.
 
 # Et3rnal x UsrBinz
