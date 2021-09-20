@@ -1,0 +1,5 @@
+argparse
+img2pdf
+qrcode
+dateutil
+Pillow
