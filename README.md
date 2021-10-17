@@ -6,7 +6,7 @@ Reikalingos bibliotekos:
 + argparse
 + img2pdf
 + qrcode
-+ dateutil
++ python-dateutil
 + Pillow
 ```
 Naudojimas:
